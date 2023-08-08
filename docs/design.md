@@ -31,7 +31,7 @@
 
 ### Multiple Side quests form a questline
 
-TODO
+- Should a quest target (ie give lighter to NATE) have to be another user?
 
 # User Personas
 
